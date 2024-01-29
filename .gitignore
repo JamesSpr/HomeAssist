@@ -28,6 +28,7 @@ media
 build/
 develop-eggs/
 dist/
+static/frontend/main*
 downloads/
 eggs/
 .eggs/
